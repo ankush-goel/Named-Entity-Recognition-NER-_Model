@@ -1,0 +1,4 @@
+Sentence,Entity,Label
+"Barack Obama was the 44th President of the United States.","Barack Obama","PERSON"
+"Google is a tech giant.","Google","ORG"
+"Elon Musk founded SpaceX.","Elon Musk","PERSON"
